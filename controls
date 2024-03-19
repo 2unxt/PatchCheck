@@ -1,5 +1,7 @@
 Close kayflock - ctrl + x
 Close FOV - close program
+Pause kayflock - alt
 Enable camlock - hold down right mouse button on target
 
 Please note that this external is in beta and still being worked on.
+All of these can be changed in the "Config" file.
